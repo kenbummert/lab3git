@@ -2,3 +2,4 @@ Name: Ben Kummert
 Major: COEN
 Year: Senior
 Hobbies: Sports
+Courses: COEN 174, SCTR 128, ITAL 1, COEN 194
